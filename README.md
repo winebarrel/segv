@@ -7,16 +7,12 @@ Cause SEGV in Ruby.
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'segv'
+gem 'segv', git: 'https://github.com/winebarrel/segv.git'
 ```
 
 And then execute:
 
     $ bundle
-
-Or install it yourself as:
-
-    $ gem install segv
 
 ## Usage
 
