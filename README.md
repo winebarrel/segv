@@ -2,6 +2,8 @@
 
 Cause SEGV in Ruby.
 
+[![Build Status](https://travis-ci.org/winebarrel/segv.svg?branch=master)](https://travis-ci.org/winebarrel/segv)
+
 ## Installation
 
 Add this line to your application's Gemfile:
