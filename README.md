@@ -1,6 +1,6 @@
 # Segv
 
-Cause SEGV.
+Cause SEGV in Ruby.
 
 ## Installation
 

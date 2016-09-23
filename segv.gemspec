@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ['winebarrel']
   spec.email         = ['sgwr_dts@yahoo.co.jp']
 
-  spec.summary       = %q{Cause SEGV.}
-  spec.description   = %q{Cause SEGV.}
+  spec.summary       = %q{Cause SEGV in Ruby.}
+  spec.description   = %q{Cause SEGV in Ruby.}
   spec.homepage      = 'https://github.com/winebarrel/segv'
   spec.license       = 'MIT'
 
